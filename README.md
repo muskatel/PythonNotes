@@ -1,6 +1,27 @@
 # PythonNotes
 Python Notes for AI
 
+## Topics
+
+- Numbers
+- Strings
+- Print statements
+- Lists
+- Dictionaries
+- Booleans
+- Tuples & Sets
+- Comparison Statements
+- if, elif, and else
+- for & while
+- range()
+- Lists Comprehension
+- Functions
+- Objects
+- lambda expressions
+- map and filter
+- File IO
+- Graphing
+
 ## Requirements
 
 Get Anaconda2 from https://www.anaconda.com/download/
